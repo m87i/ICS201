@@ -1,0 +1,16 @@
+#	24-hour	12-hour 
+ Mohammed Alharthi 
+ ------------------------------------
+1	00:00	12:00 AM
+2	12:00	12:00 PM
+3	12:01	12:01 PM
+4	Ab:cd	Time Exception
+5	+5:19	Time Exception
+6	12:+8	Time Exception
+7	11:59	11:59 AM
+8	23:59	11:59 PM
+9	24:00	Time Exception
+10	10:65	Time Exception
+11	3:23	Time Exception
+12	1: 45	Time Exception
+13	8&*68	Time Exception
